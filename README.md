@@ -1,0 +1,1 @@
+# UniversiteYonetimSistemi.www.patika.dev
